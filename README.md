@@ -1,1 +1,1 @@
-# Covid-19-Trails-Dashboard-Analysis
+This Projects helps to get insights about status Clinical Trails during Covid-19
